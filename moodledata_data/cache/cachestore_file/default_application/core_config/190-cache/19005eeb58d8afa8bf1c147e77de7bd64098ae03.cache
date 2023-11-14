@@ -1,0 +1,351 @@
+a:352:{s:6:"block0";s:1:"1";s:6:"block1";s:1:"1";s:7:"block10";s:1:"1";s:12:"block10class";s:0:"";s:20:"block10footercontent";s:0:"";s:18:"block10htmlcontent";s:0:"";s:19:"block10introcontent";s:0:"";s:17:"block10introtitle";s:0:"";s:7:"block11";s:1:"1";s:12:"block11class";s:0:"";s:20:"block11footercontent";s:0:"";s:18:"block11htmlcontent";s:0:"";s:19:"block11introcontent";s:0:"";s:17:"block11introtitle";s:0:"";s:7:"block12";s:1:"1";s:12:"block12class";s:0:"";s:20:"block12footercontent";s:0:"";s:18:"block12htmlcontent";s:0:"";s:19:"block12introcontent";s:0:"";s:17:"block12introtitle";s:0:"";s:7:"block13";s:1:"1";s:9:"block13bg";s:0:"";s:14:"block13bgcolor";s:0:"";s:12:"block13class";s:0:"";s:16:"block13customcss";s:0:"";s:20:"block13footercontent";s:0:"";s:18:"block13htmlcontent";s:0:"";s:19:"block13introcontent";s:0:"";s:17:"block13introtitle";s:0:"";s:7:"block14";s:1:"1";s:9:"block14bg";s:0:"";s:12:"block14class";s:0:"";s:16:"block14customcss";s:0:"";s:18:"block14htmlcontent";s:0:"";s:19:"block14introcontent";s:0:"";s:17:"block14introtitle";s:0:"";s:16:"block14textalign";s:4:"left";s:7:"block15";s:1:"1";s:12:"block15class";s:0:"";s:20:"block15footercontent";s:0:"";s:18:"block15htmlcontent";s:0:"";s:19:"block15introcontent";s:0:"";s:17:"block15introtitle";s:0:"";s:7:"block16";s:1:"1";s:12:"block16class";s:0:"";s:20:"block16footercontent";s:0:"";s:18:"block16htmlcontent";s:0:"";s:19:"block16introcontent";s:0:"";s:17:"block16introtitle";s:0:"";s:7:"block17";s:1:"1";s:12:"block17class";s:0:"";s:20:"block17footercontent";s:0:"";s:18:"block17htmlcontent";s:0:"";s:19:"block17introcontent";s:0:"";s:17:"block17introtitle";s:0:"";s:7:"block18";s:1:"1";s:12:"block18class";s:0:"";s:20:"block18footercontent";s:0:"";s:18:"block18htmlcontent";s:0:"";s:7:"block19";s:1:"1";s:9:"block19bg";s:0:"";s:12:"block19class";s:0:"";s:16:"block19customcss";s:0:"";s:20:"block19footercontent";s:0:"";s:18:"block19htmlcontent";s:0:"";s:19:"block19introcontent";s:0:"";s:17:"block19introtitle";s:0:"";s:16:"block19textalign";s:4:"left";s:11:"block1class";s:0:"";s:11:"block1count";s:1:"4";s:19:"block1slidecaption1";s:0:"";s:19:"block1slidecaption2";s:0:"";s:19:"block1slidecaption3";s:0:"";s:19:"block1slidecaption4";s:0:"";s:15:"block1slidecss1";s:0:"";s:15:"block1slidecss2";s:0:"";s:15:"block1slidecss3";s:0:"";s:15:"block1slidecss4";s:0:"";s:15:"block1slideimg1";s:12:"/banner1.png";s:15:"block1slideimg2";s:12:"/banner1.png";s:15:"block1slideimg3";s:12:"/banner1.png";s:15:"block1slideimg4";s:12:"/banner1.png";s:21:"block1sliderwrapperbg";s:0:"";s:17:"block1slidetitle1";s:0:"";s:17:"block1slidetitle2";s:0:"";s:17:"block1slidetitle3";s:0:"";s:17:"block1slidetitle4";s:0:"";s:18:"block1wrapperalign";s:1:"0";s:6:"block2";s:1:"1";s:11:"block2class";s:0:"";s:19:"block2footercontent";s:0:"";s:17:"block2htmlcontent";s:0:"";s:18:"block2introcontent";s:329:"<div id="banner-aux" class="  xl:mt-4 flex flex-col xl:flex-row">
+                <img class="mt-10 xl:mt-0 xl:pl-0 xl:pr-2" src="theme/baz/assets/img/banner-s-2.png" alt="Cursos realizados">
+                <img class="mt-10 xl:mt-0 xl:pr-0 xl:pl-2" src="theme/baz/assets/img/banner-s-3.png" alt="Red de Conocimiento">
+</div>";s:16:"block2introtitle";s:34:" w-full xl:w-[50%]
+
+mx-auto px-4";s:6:"block3";s:1:"1";s:11:"block3class";s:0:"";s:19:"block3footercontent";s:0:"";s:17:"block3htmlcontent";s:0:"";s:18:"block3introcontent";s:0:"";s:16:"block3introtitle";s:2512:"            <div id="starred-subjects" class="mt-20 xl:mt-40 px-4 xl:px-10 mx-auto">
+                <h1 class="text-azulExperto font-black text-3xl xl:text-5xl">Temas destacados por categoría</h1>
+                <p class="mt-12 xl:mt-10 text-base xl:text-lg">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, dolore? Nam excepturi dicta quod aspernatur animi consequuntur! A similique aperiam recusandae. Unde corporis dolores soluta id deserunt qui magnam numquam.</p>
+                <div id="categories-container-home" class="flex flex-col xl:flex-row mt-8 xl:mt-10  text-base xl:text-lg xl:justify-evenly px-14 xl:w-full mx-auto">
+                    <div id="category1" class="">
+                        <div id="category1-img"><img class=" mx-auto w-full" src="theme/baz/assets/img/category-img.png" alt=""></div>
+                        <div id="category1-name" class="bg-silverLakeBlue hover:bg-azulExperto mt-6 py-5 px-4 xl:px-9 text-center rounded-md"><a href="#" ><h2 class="font-bold font-sans text-white">Escuela Pintuco<br>3 cursos</h2></a></div>
+                    </div>
+                    <div id="category2" class="mx-2 mt-10 xl:mt-0">
+                        <div id="category1-img"><img class="mx-auto w-full" src="theme/baz/assets/img/category-img.png" alt=""></div>
+                        <div id="category1-name" class="bg-silverLakeBlue hover:bg-azulExperto mt-6 py-5 px-4 xl:px-9 text-center rounded-md"><a href="#" ><h2 class="font-bold font-sans text-white">Escuela Pintuco<br>3 cursos</h2></a></div>
+                    </div>
+                    <div id="category3" class="mx-2 mt-10 xl:mt-0">
+                        <div id="category1-img"><img class="mx-auto w-full" src="theme/baz/assets/img/category-img.png" alt=""></div>
+                        <div id="category1-name" class="bg-silverLakeBlue hover:bg-azulExperto mt-6 py-5 px-4 xl:px-9 text-center rounded-md"><a href="#" class=""><h2 class="font-bold font-sans text-white">Escuela Pintuco<br>3 cursos</h2></a></div>
+                    </div>
+                </div>
+                <p class="my-12 xl:my-12 text-base xl:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis ducimus consequatur veniam, atque accusamus suscipit porro omnis nam? Corporis dicta rerum odit cum, harum facilis mollitia numquam porro fugiat accusantium.</p>
+                <div id="bottom-line" class="mx-auto w-28 border-b-eerieBlack border-b-[1px]"></div>
+            </div>
+";s:6:"block4";s:1:"1";s:13:"block4answer1";s:0:"";s:11:"block4class";s:0:"";s:11:"block4count";s:1:"1";s:19:"block4footercontent";s:0:"";s:17:"block4htmlcontent";s:0:"";s:18:"block4introcontent";s:0:"";s:16:"block4introtitle";s:3043:"    <div id="our-team" class="xl:container mx-auto mt-12 px-4 xl:w-full">
+        <h1 class="text-azulExperto font-black mb-12 text-3xl xl:text-5xl mx-auto xl:px-10">Nuestro Equipo</h1>
+        <p class="mx-auto xl:px-10 mb-12">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat doloremque consequuntur aspernatur amet nisi quasi adipisci. Nemo eos mollitia iure, aut, possimus eaque hic placeat modi dolorum ipsum voluptatem laborum?</p>
+        <div id="our-team-container" class="grid grid-cols-2 xl:grid-cols-4 gap-4 [&>div]:flex [&>div]:flex-col [&>div>h2]:mt-5 [&>div>h2]:font-black [&>div>p]:mt-2 [&>div>img]:rounded-xl">
+            <div id="team-member-1" class="">
+                <img src="theme/baz/assets/img/our-team/team-member-1.png" alt="">
+                <h2 class="font-sans font-black">Mark Twain</h2>
+                <p>Senior Vice President Machine Learning and AI Strategy</p>
+            </div>
+            <div id="team-member-2" class="">
+                <img src="theme/baz/assets/img/our-team/team-member-2.png" alt="">
+                <h2 class="font-sans font-black">Mark Twain</h2>
+                <p>Senior Vice President Machine Learning and AI Strategy</p>
+            </div>
+            <div id="team-member-3" class="">
+                <img src="theme/baz/assets/img/our-team/team-member-3.png" alt="">
+                <h2 class="font-sans font-black">Mark Twain</h2>
+                <p>Senior Vice President Machine Learning and AI Strategy</p>
+            </div>
+            <div id="team-member-4" class="">
+                <img src="theme/baz/assets/img/our-team/team-member-4.png" alt="">
+                <h2 class="font-sans font-black">Mark Twain</h2>
+                <p>Senior Vice President Machine Learning and AI Strategy</p>
+            </div>
+            <div id="team-member-5" class="">
+                <img src="theme/baz/assets/img/our-team/team-member-5.png" alt="">
+                <h2 class="font-sans font-black">Mark Twain</h2>
+                <p>Senior Vice President Machine Learning and AI Strategy</p>
+            </div>
+            <div id="team-member-6" class="">
+                <img src="theme/baz/assets/img/our-team/team-member-6.png" alt="">
+                <h2 class="font-sans font-black">Mark Twain</h2>
+                <p>Senior Vice President Machine Learning and AI Strategy</p>
+            </div>
+            <div id="team-member-7" class="">
+                <img src="theme/baz/assets/img/our-team/team-member-7.png" alt="">
+                <h2 class="font-sans font-black">Mark Twain</h2>
+                <p>Senior Vice President Machine Learning and AI Strategy</p>
+            </div>
+            <div id="team-member-8" class="">
+                <img src="theme/baz/assets/img/our-team/team-member-8.png" alt="">
+                <h2 class="font-sans font-black">Mark Twain</h2>
+                <p>Senior Vice President Machine Learning and AI Strategy</p>
+            </div>
+        </div>
+    </div>
+";s:15:"block4question1";s:0:"";s:6:"block5";s:1:"1";s:11:"block5class";s:0:"";s:11:"block5count";s:1:"1";s:19:"block5footercontent";s:0:"";s:17:"block5htmlcontent";s:0:"";s:18:"block5introcontent";s:0:"";s:16:"block5introtitle";s:731:"    <div id="logos-section" class="mx-auto xl:container mt-24">
+        <p class="px-4 xl:px-10 mb-24 mx-auto">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem rerum incidunt nam amet accusamus neque vel, nulla ipsam fuga explicabo facilis, qui magni corporis provident aut quam dolorum quas minus.</p>
+        <div id="logos-slider" class="flex justify-evenly mb-36 flex-wrap mx-auto">
+            <img src="assets/img/logos-slider.png" alt="">
+            <img src="assets/img/logos-slider.png" alt="">
+            <img src="assets/img/logos-slider.png" alt="">
+            <img src="assets/img/logos-slider.png" alt="">
+            <img src="assets/img/logos-slider.png" alt="">
+        </div>
+    </div>
+";s:14:"block5itemimg1";s:0:"";s:16:"block5itemtitle1";s:0:"";s:14:"block5itemurl1";s:0:"";s:18:"block5slidesperrow";s:0:"";s:6:"block6";s:1:"1";s:11:"block6class";s:0:"";s:19:"block6footercontent";s:0:"";s:17:"block6htmlcontent";s:0:"";s:18:"block6introcontent";s:0:"";s:16:"block6introtitle";s:3897:"    <div id="yellow-section" class="mx-auto bg-amarilloPintuco pt-24 hover:[&>div>div>div>div>a]:bg-eerieBlack [&>div>div>div>div>a]:bg-azulExperto [&>div>div>div>div>a]:rounded-md [&>div>div>div>div>a]:text-white [&>div>div>div>div>a]:px-10 [&>div>div>div>div>a]:py-4">
+        <div class="xl:container mx-auto px-4">
+            <p class="mb-24 px-4 xl:px-10 mx-auto">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis ipsum eligendi ducimus quibusdam minus! Deserunt quaerat optio illo fugit ipsum voluptate reiciendis sit amet adipisci voluptatibus. Voluptatem fugit quae sint?</p>
+        </div>
+        <div id="config-all-container" class="container mx-auto">
+            <div id="config-1-container" class="[&>div>h3]:font-sans [&>div>h3]:font-medium [&>div>h3]:text-3xl [&>div>p]:text-xl flex xl:flex-row flex-col px-4 xl:px-10">
+                <img src="assets/img/config1.png" alt="" class="xl:max-w-[48%] rounded-xl px-4">
+                <div class="flex flex-col px-4 xl:pl-8">
+                    <h3 class="pt-12 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur fugit</h3>
+                    <p class="pt-6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, beatae natus, nesciunt corrupti dolore sit doloribus minus, alias vel dolorum impedit! Quos alias temporibus natus laborum consectetur molestias, vero quis!</p>
+                    <div id="config-1-button" class="pt-12 "><a class="" href="#">Acceso</a></div>
+                </div>        
+            </div>
+            <div id="config-2-container" class="[&>div>h3]:font-sans [&>div>h3]:font-medium [&>div>h3]:text-3xl [&>div>p]:text-xl flex xl:flex-row flex-col px-4 xl:px-10 mt-24">
+                <div class="hidden xl:flex xl:flex-col px-4 xl:pl-0 xl:pr-8">
+                    <h3 class="pt-12">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur fugit</h3>
+                    <p class="pt-6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, beatae natus, nesciunt corrupti dolore sit doloribus minus, alias vel dolorum impedit! Quos alias temporibus natus laborum consectetur molestias, vero quis!</p>
+                    <div id="config-2-button" class="pt-12"><a href="#">Acceso</a></div>
+                </div>
+                <img src="assets/img/config2.png" alt="" class="xl:max-w-[48%] rounded-xl px-4">
+                <div class="flex flex-col xl:hidden px-4 xl:pl-0 xl:pr-8">
+                    <h3 class="pt-12">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur fugit</h3>
+                    <p class="pt-6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, beatae natus, nesciunt corrupti dolore sit doloribus minus, alias vel dolorum impedit! Quos alias temporibus natus laborum consectetur molestias, vero quis!</p>
+                    <div id="config-2-button" class="pt-12"><a href="#">Acceso</a></div>
+                </div>        
+            </div>
+            <div id="config-3-container" class="mb-24 [&>div>h3]:font-sans [&>div>h3]:font-medium [&>div>h3]:text-3xl [&>div>p]:text-xl flex xl:flex-row flex-col px-4 xl:px-10 mt-24 pb-24">
+                <img src="assets/img/config3.png" alt="" class="xl:max-w-[48%] rounded-xl px-4">
+                <div class="flex flex-col px-4 xl:pl-8">
+                    <h3 class="pt-12">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur fugit</h3>
+                    <p class="pt-6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, beatae natus, nesciunt corrupti dolore sit doloribus minus, alias vel dolorum impedit! Quos alias temporibus natus laborum consectetur molestias, vero quis!</p>
+                    <div id="config-3-button" class="pt-12"><a href="#">Acceso</a></div>
+                </div>
+            </div>     
+        </div>
+    </div>
+";s:6:"block7";s:1:"1";s:11:"block7class";s:0:"";s:19:"block7footercontent";s:0:"";s:17:"block7htmlcontent";s:0:"";s:18:"block7introcontent";s:0:"";s:16:"block7introtitle";s:15111:"    <div id="courses-container-home" class="xl:container mx-auto mt-12 px-4 xl:w-screen">
+        <h1 class="text-azulExperto font-black text-3xl xl:text-5xl mx-auto xl:px-10 my-24 xl:my-36">Dando productos, apoyo y oportunidades para las escuelas que más los necesitan.</h1>
+        <div id="courses-grid" class="grid grid-cols-1 mx-2 xl:mx-0 xl:grid-cols-3 gap-4">
+            <div class="border-[1px] rounded-xl">
+                <div class="bg-amarilloPintuco rounded-full p-4 ml-8 my-6 inline-block">
+                    <svg class="" width="23" height="30" viewBox="0 0 23 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_63_2629)">
+                        <path d="M-0.000143051 28.2395V29.9796C0.0812778 29.9866 0.155621 29.9983 0.231144 29.9983C6.52425 29.9983 12.8174 30.0018 19.1105 29.9971C20.9785 29.996 22.4865 28.802 22.9031 27.0057C22.9704 26.7139 22.9951 26.4069 22.9963 26.1058C22.9999 18.7051 23.001 11.3044 22.9975 3.90372C22.9963 1.6739 21.3278 0.0041733 19.0904 0.00300156C12.8067 -0.00285713 6.52425 -0.000513654 0.240583 -0.000513654H0.0104771V24.1396H0.371567C6.57618 24.1396 12.7808 24.1408 18.9854 24.1385C19.8633 24.1385 20.5548 24.4595 20.9832 25.2434C21.6346 26.4351 20.9006 27.9489 19.5553 28.1903C19.3441 28.2278 19.1258 28.2372 18.9099 28.2372C12.7348 28.2395 6.55965 28.2395 0.384548 28.2395H-0.000143051ZM1.76518 1.75944H2.04721C7.70074 1.75944 13.3543 1.75944 19.0078 1.75944C20.3542 1.75944 21.2274 2.62301 21.2274 3.95527C21.2298 10.2042 21.2274 16.4519 21.2274 22.7007C21.2274 22.7804 21.2156 22.8613 21.2062 22.9761C20.3766 22.4453 19.4881 22.3738 18.57 22.3762C13.0935 22.3855 7.61696 22.3808 2.14043 22.3808C2.01771 22.3808 1.89499 22.3808 1.76637 22.3808V1.75944H1.76518Z" fill="black"/>
+                        <path d="M19.7336 25.3247H0.00233078V27.0472H19.7336V25.3247Z" fill="black"/>
+                        <path d="M5.90847 10.535H17.0834V5.29736H5.90847V10.535ZM15.3145 8.76922H7.68324V7.04794H15.3145V8.76922Z" fill="black"/>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_63_2629">
+                        <rect width="23" height="30" fill="white" transform="matrix(-1 0 0 1 23 0)"/>
+                        </clipPath>
+                        </defs>
+                    </svg>
+                </div>
+                <h3 class="font-sans font-medium text-3xl mx-8 mb-8">Administra tu curso</h3>
+                <p class="text-xl mb-12 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                <div class="ml-8 mb-12 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+            </div>
+            <div class="border-[1px] rounded-xl">
+                <div class="bg-amarilloPintuco rounded-full p-4 ml-8 my-6 inline-block">
+                    <svg class="" width="23" height="30" viewBox="0 0 23 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_63_2629)">
+                        <path d="M-0.000143051 28.2395V29.9796C0.0812778 29.9866 0.155621 29.9983 0.231144 29.9983C6.52425 29.9983 12.8174 30.0018 19.1105 29.9971C20.9785 29.996 22.4865 28.802 22.9031 27.0057C22.9704 26.7139 22.9951 26.4069 22.9963 26.1058C22.9999 18.7051 23.001 11.3044 22.9975 3.90372C22.9963 1.6739 21.3278 0.0041733 19.0904 0.00300156C12.8067 -0.00285713 6.52425 -0.000513654 0.240583 -0.000513654H0.0104771V24.1396H0.371567C6.57618 24.1396 12.7808 24.1408 18.9854 24.1385C19.8633 24.1385 20.5548 24.4595 20.9832 25.2434C21.6346 26.4351 20.9006 27.9489 19.5553 28.1903C19.3441 28.2278 19.1258 28.2372 18.9099 28.2372C12.7348 28.2395 6.55965 28.2395 0.384548 28.2395H-0.000143051ZM1.76518 1.75944H2.04721C7.70074 1.75944 13.3543 1.75944 19.0078 1.75944C20.3542 1.75944 21.2274 2.62301 21.2274 3.95527C21.2298 10.2042 21.2274 16.4519 21.2274 22.7007C21.2274 22.7804 21.2156 22.8613 21.2062 22.9761C20.3766 22.4453 19.4881 22.3738 18.57 22.3762C13.0935 22.3855 7.61696 22.3808 2.14043 22.3808C2.01771 22.3808 1.89499 22.3808 1.76637 22.3808V1.75944H1.76518Z" fill="black"/>
+                        <path d="M19.7336 25.3247H0.00233078V27.0472H19.7336V25.3247Z" fill="black"/>
+                        <path d="M5.90847 10.535H17.0834V5.29736H5.90847V10.535ZM15.3145 8.76922H7.68324V7.04794H15.3145V8.76922Z" fill="black"/>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_63_2629">
+                        <rect width="23" height="30" fill="white" transform="matrix(-1 0 0 1 23 0)"/>
+                        </clipPath>
+                        </defs>
+                    </svg>
+                </div>
+                <h3 class="font-sans font-medium text-3xl mx-8 mb-8">Administra tu curso</h3>
+                <p class="text-xl mb-12 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                <div class="ml-8 mb-12 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+            </div>
+            <div class="border-[1px] rounded-xl">
+                <div class="bg-amarilloPintuco rounded-full p-4 ml-8 my-6 inline-block">
+                    <svg class="" width="23" height="30" viewBox="0 0 23 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_63_2629)">
+                        <path d="M-0.000143051 28.2395V29.9796C0.0812778 29.9866 0.155621 29.9983 0.231144 29.9983C6.52425 29.9983 12.8174 30.0018 19.1105 29.9971C20.9785 29.996 22.4865 28.802 22.9031 27.0057C22.9704 26.7139 22.9951 26.4069 22.9963 26.1058C22.9999 18.7051 23.001 11.3044 22.9975 3.90372C22.9963 1.6739 21.3278 0.0041733 19.0904 0.00300156C12.8067 -0.00285713 6.52425 -0.000513654 0.240583 -0.000513654H0.0104771V24.1396H0.371567C6.57618 24.1396 12.7808 24.1408 18.9854 24.1385C19.8633 24.1385 20.5548 24.4595 20.9832 25.2434C21.6346 26.4351 20.9006 27.9489 19.5553 28.1903C19.3441 28.2278 19.1258 28.2372 18.9099 28.2372C12.7348 28.2395 6.55965 28.2395 0.384548 28.2395H-0.000143051ZM1.76518 1.75944H2.04721C7.70074 1.75944 13.3543 1.75944 19.0078 1.75944C20.3542 1.75944 21.2274 2.62301 21.2274 3.95527C21.2298 10.2042 21.2274 16.4519 21.2274 22.7007C21.2274 22.7804 21.2156 22.8613 21.2062 22.9761C20.3766 22.4453 19.4881 22.3738 18.57 22.3762C13.0935 22.3855 7.61696 22.3808 2.14043 22.3808C2.01771 22.3808 1.89499 22.3808 1.76637 22.3808V1.75944H1.76518Z" fill="black"/>
+                        <path d="M19.7336 25.3247H0.00233078V27.0472H19.7336V25.3247Z" fill="black"/>
+                        <path d="M5.90847 10.535H17.0834V5.29736H5.90847V10.535ZM15.3145 8.76922H7.68324V7.04794H15.3145V8.76922Z" fill="black"/>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_63_2629">
+                        <rect width="23" height="30" fill="white" transform="matrix(-1 0 0 1 23 0)"/>
+                        </clipPath>
+                        </defs>
+                    </svg>
+                </div>
+                <h3 class="font-sans font-medium text-3xl mx-8 mb-8">Administra tu curso</h3>
+                <p class="text-xl mb-12 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                <div class="ml-8 mb-12 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+            </div>
+            <div class="border-[1px] rounded-xl">
+                <div class="bg-amarilloPintuco rounded-full p-4 ml-8 my-6 inline-block">
+                    <svg class="" width="23" height="30" viewBox="0 0 23 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_63_2629)">
+                        <path d="M-0.000143051 28.2395V29.9796C0.0812778 29.9866 0.155621 29.9983 0.231144 29.9983C6.52425 29.9983 12.8174 30.0018 19.1105 29.9971C20.9785 29.996 22.4865 28.802 22.9031 27.0057C22.9704 26.7139 22.9951 26.4069 22.9963 26.1058C22.9999 18.7051 23.001 11.3044 22.9975 3.90372C22.9963 1.6739 21.3278 0.0041733 19.0904 0.00300156C12.8067 -0.00285713 6.52425 -0.000513654 0.240583 -0.000513654H0.0104771V24.1396H0.371567C6.57618 24.1396 12.7808 24.1408 18.9854 24.1385C19.8633 24.1385 20.5548 24.4595 20.9832 25.2434C21.6346 26.4351 20.9006 27.9489 19.5553 28.1903C19.3441 28.2278 19.1258 28.2372 18.9099 28.2372C12.7348 28.2395 6.55965 28.2395 0.384548 28.2395H-0.000143051ZM1.76518 1.75944H2.04721C7.70074 1.75944 13.3543 1.75944 19.0078 1.75944C20.3542 1.75944 21.2274 2.62301 21.2274 3.95527C21.2298 10.2042 21.2274 16.4519 21.2274 22.7007C21.2274 22.7804 21.2156 22.8613 21.2062 22.9761C20.3766 22.4453 19.4881 22.3738 18.57 22.3762C13.0935 22.3855 7.61696 22.3808 2.14043 22.3808C2.01771 22.3808 1.89499 22.3808 1.76637 22.3808V1.75944H1.76518Z" fill="black"/>
+                        <path d="M19.7336 25.3247H0.00233078V27.0472H19.7336V25.3247Z" fill="black"/>
+                        <path d="M5.90847 10.535H17.0834V5.29736H5.90847V10.535ZM15.3145 8.76922H7.68324V7.04794H15.3145V8.76922Z" fill="black"/>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_63_2629">
+                        <rect width="23" height="30" fill="white" transform="matrix(-1 0 0 1 23 0)"/>
+                        </clipPath>
+                        </defs>
+                    </svg>
+                </div>
+                <h3 class="font-sans font-medium text-3xl mx-8 mb-8">Administra tu curso</h3>
+                <p class="text-xl mb-12 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                <div class="ml-8 mb-12 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+            </div>
+            <div class="border-[1px] rounded-xl">
+                <div class="bg-amarilloPintuco rounded-full p-4 ml-8 my-6 inline-block">
+                    <svg class="" width="23" height="30" viewBox="0 0 23 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_63_2629)">
+                        <path d="M-0.000143051 28.2395V29.9796C0.0812778 29.9866 0.155621 29.9983 0.231144 29.9983C6.52425 29.9983 12.8174 30.0018 19.1105 29.9971C20.9785 29.996 22.4865 28.802 22.9031 27.0057C22.9704 26.7139 22.9951 26.4069 22.9963 26.1058C22.9999 18.7051 23.001 11.3044 22.9975 3.90372C22.9963 1.6739 21.3278 0.0041733 19.0904 0.00300156C12.8067 -0.00285713 6.52425 -0.000513654 0.240583 -0.000513654H0.0104771V24.1396H0.371567C6.57618 24.1396 12.7808 24.1408 18.9854 24.1385C19.8633 24.1385 20.5548 24.4595 20.9832 25.2434C21.6346 26.4351 20.9006 27.9489 19.5553 28.1903C19.3441 28.2278 19.1258 28.2372 18.9099 28.2372C12.7348 28.2395 6.55965 28.2395 0.384548 28.2395H-0.000143051ZM1.76518 1.75944H2.04721C7.70074 1.75944 13.3543 1.75944 19.0078 1.75944C20.3542 1.75944 21.2274 2.62301 21.2274 3.95527C21.2298 10.2042 21.2274 16.4519 21.2274 22.7007C21.2274 22.7804 21.2156 22.8613 21.2062 22.9761C20.3766 22.4453 19.4881 22.3738 18.57 22.3762C13.0935 22.3855 7.61696 22.3808 2.14043 22.3808C2.01771 22.3808 1.89499 22.3808 1.76637 22.3808V1.75944H1.76518Z" fill="black"/>
+                        <path d="M19.7336 25.3247H0.00233078V27.0472H19.7336V25.3247Z" fill="black"/>
+                        <path d="M5.90847 10.535H17.0834V5.29736H5.90847V10.535ZM15.3145 8.76922H7.68324V7.04794H15.3145V8.76922Z" fill="black"/>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_63_2629">
+                        <rect width="23" height="30" fill="white" transform="matrix(-1 0 0 1 23 0)"/>
+                        </clipPath>
+                        </defs>
+                    </svg>
+                </div>
+                <h3 class="font-sans font-medium text-3xl mx-8 mb-8">Administra tu curso</h3>
+                <p class="text-xl mb-12 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                <div class="ml-8 mb-12 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+            </div>
+            <div class="border-[1px] rounded-xl">
+                <div class="bg-amarilloPintuco rounded-full p-4 ml-8 my-6 inline-block">
+                    <svg class="" width="23" height="30" viewBox="0 0 23 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_63_2629)">
+                        <path d="M-0.000143051 28.2395V29.9796C0.0812778 29.9866 0.155621 29.9983 0.231144 29.9983C6.52425 29.9983 12.8174 30.0018 19.1105 29.9971C20.9785 29.996 22.4865 28.802 22.9031 27.0057C22.9704 26.7139 22.9951 26.4069 22.9963 26.1058C22.9999 18.7051 23.001 11.3044 22.9975 3.90372C22.9963 1.6739 21.3278 0.0041733 19.0904 0.00300156C12.8067 -0.00285713 6.52425 -0.000513654 0.240583 -0.000513654H0.0104771V24.1396H0.371567C6.57618 24.1396 12.7808 24.1408 18.9854 24.1385C19.8633 24.1385 20.5548 24.4595 20.9832 25.2434C21.6346 26.4351 20.9006 27.9489 19.5553 28.1903C19.3441 28.2278 19.1258 28.2372 18.9099 28.2372C12.7348 28.2395 6.55965 28.2395 0.384548 28.2395H-0.000143051ZM1.76518 1.75944H2.04721C7.70074 1.75944 13.3543 1.75944 19.0078 1.75944C20.3542 1.75944 21.2274 2.62301 21.2274 3.95527C21.2298 10.2042 21.2274 16.4519 21.2274 22.7007C21.2274 22.7804 21.2156 22.8613 21.2062 22.9761C20.3766 22.4453 19.4881 22.3738 18.57 22.3762C13.0935 22.3855 7.61696 22.3808 2.14043 22.3808C2.01771 22.3808 1.89499 22.3808 1.76637 22.3808V1.75944H1.76518Z" fill="black"/>
+                        <path d="M19.7336 25.3247H0.00233078V27.0472H19.7336V25.3247Z" fill="black"/>
+                        <path d="M5.90847 10.535H17.0834V5.29736H5.90847V10.535ZM15.3145 8.76922H7.68324V7.04794H15.3145V8.76922Z" fill="black"/>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_63_2629">
+                        <rect width="23" height="30" fill="white" transform="matrix(-1 0 0 1 23 0)"/>
+                        </clipPath>
+                        </defs>
+                    </svg>
+                </div>
+                <h3 class="font-sans font-medium text-3xl mx-8 mb-8">Administra tu curso</h3>
+                <p class="text-xl mb-12 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                <div class="ml-8 mb-12 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+            </div>
+        </div>
+    </div>
+";s:6:"block8";s:1:"1";s:11:"block8class";s:0:"";s:19:"block8footercontent";s:0:"";s:17:"block8htmlcontent";s:0:"";s:18:"block8introcontent";s:0:"";s:16:"block8introtitle";s:26837:"    <div id="block-7-home" class="xl:container mx-auto mt-12 px-4 xl:w-screen">
+        <h1 class="text-azulExperto font-black text-3xl xl:text-5xl mx-auto xl:px-10 my-24 xl:my-36">Bloque #7</h1>
+        <div class="flex flex-col xl:flex-row justify-between gap-5">
+            <div class="bg-amarilloPintuco flex flex-col xl:flex-row items-center rounded-lg py-8 pr-8">
+                <div class="hidden xl:block">
+                    <h3 class="font-sans font-medium text-3xl mx-8 mb-8">Repleto de características</h3>
+                    <p class="text-xl mb-12 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                    <div class="ml-8 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+                </div>
+                <div class="inline-block bg-white rounded-full p-10">
+                    <svg width="104" height="101" viewBox="0 0 104 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_63_2633)">
+                        <path d="M101.368 83.6334C101.803 83.6618 102.14 83.6618 102.469 83.7025C103.403 83.8204 103.963 84.3368 103.972 85.3046C103.988 87.0327 104.037 88.7649 103.951 90.4889C103.817 93.1076 101.758 95.2952 99.1749 95.6611C98.5738 95.7465 97.9605 95.7709 97.3553 95.7709C86.5922 95.7791 75.8291 95.7994 65.066 95.7506C63.2464 95.7425 62.0117 96.3443 61.0979 97.9667C60.0134 99.8981 58.2264 100.915 55.9966 100.955C53.3241 101.008 50.6475 101.012 47.975 100.955C45.7087 100.902 43.9297 99.8412 42.8209 97.8691C41.9761 96.3646 40.8104 95.7465 39.1046 95.7587C33.0813 95.8035 27.054 95.7791 21.0307 95.7709C20.6286 95.7709 20.2103 95.7669 19.8244 95.6693C19.073 95.4822 18.675 94.9414 18.7075 94.181C18.744 93.3759 19.1989 92.8636 20.0194 92.7498C20.3199 92.7091 20.6286 92.7172 20.9332 92.7172C27.0255 92.7172 33.1179 92.7416 39.2102 92.705C41.972 92.6888 44.0312 93.7866 45.3716 96.2223C45.997 97.3567 46.9799 97.9219 48.2837 97.9179C50.7531 97.9179 53.2266 97.9138 55.696 97.9179C57.0444 97.9179 58.0192 97.3079 58.6691 96.145C59.9769 93.7866 61.9873 92.705 64.668 92.7091C75.5326 92.7254 86.3973 92.7172 97.2619 92.7091C97.733 92.7091 98.2123 92.7091 98.6794 92.6359C99.9385 92.4407 100.84 91.5096 100.909 90.2409C100.97 89.1268 100.921 88.0086 100.921 86.8172H3.08678C3.08678 88.0574 2.99336 89.2732 3.11115 90.4727C3.24924 91.8552 4.40678 92.6928 6.03952 92.7091C8.5455 92.7335 11.0474 92.7172 13.5534 92.7172C13.858 92.7172 14.1626 92.7091 14.4672 92.7457C15.2917 92.8392 15.7669 93.3393 15.8197 94.1404C15.8725 94.9496 15.4461 95.4944 14.6459 95.6896C14.3535 95.7587 14.0448 95.7709 13.7402 95.7709C11.2018 95.775 8.66328 95.7913 6.12481 95.7709C2.34757 95.7425 0.0081231 93.3719 0 89.5863C0 88.3664 0 87.1465 0 85.9267C0 84.1864 0.373662 83.7919 2.10794 83.6862C2.24197 83.6781 2.37194 83.6456 2.61158 83.6049C2.61158 81.4417 2.71718 79.2744 2.58721 77.1193C2.35976 73.3296 3.88284 72.183 7.46919 72.2155C19.1096 72.3253 30.754 72.2928 42.3985 72.2358C46.3098 72.2155 49.4453 73.5695 51.7482 76.7656C51.801 76.8388 51.8903 76.8916 52.0203 77.0014C52.2153 76.7493 52.394 76.5175 52.5767 76.2898C54.6197 73.7322 57.2597 72.309 60.5414 72.2724C65.5493 72.2196 70.5613 72.2521 75.5692 72.2602C76.7592 72.2602 77.4253 72.8336 77.4172 73.7973C77.409 74.7569 76.747 75.3058 75.5367 75.3058C70.5613 75.3139 65.5859 75.2733 60.6105 75.3221C56.2281 75.3668 52.8773 79.3761 53.6409 83.5968C54.4775 83.8489 55.1639 83.6496 55.826 83.0275C58.3644 80.6488 61.2481 78.8637 64.737 78.2782C65.8011 78.0993 66.8856 77.9854 67.9619 77.9854C77.6406 77.9651 87.3233 77.9732 97.002 77.9732C97.4 77.9732 97.798 77.9732 98.257 77.9732V75.3099C97.9077 75.3099 97.5543 75.3099 97.201 75.3099C92.3271 75.3099 87.4533 75.3099 82.5794 75.3099C82.2423 75.3099 81.893 75.3424 81.5681 75.2733C80.772 75.1106 80.3049 74.578 80.309 73.7769C80.309 72.9759 80.7761 72.4514 81.5721 72.2846C81.8321 72.2318 82.1123 72.2562 82.3804 72.2562C87.4898 72.2562 92.6033 72.2521 97.7127 72.2562C100.085 72.2562 101.356 73.5208 101.368 75.8832C101.376 78.1196 101.368 80.356 101.368 82.5924C101.368 82.9258 101.368 83.2552 101.368 83.6334ZM5.71054 77.9732C6.21417 77.9732 6.61626 77.9732 7.01836 77.9732C16.693 77.9732 26.3635 77.9651 36.0381 77.9854C37.1144 77.9854 38.1989 78.1074 39.263 78.2823C42.7559 78.8637 45.6234 80.665 48.1659 83.0316C48.8279 83.6496 49.5103 83.8489 50.3632 83.5886C50.3957 83.4707 50.4404 83.3813 50.4485 83.2837C50.7612 78.819 47.5364 75.318 43.0605 75.3099C30.9531 75.2977 18.8456 75.3058 6.73811 75.3099C6.41318 75.3099 6.0842 75.3383 5.7146 75.3587V77.9732H5.71054ZM5.71054 83.5968H44.0353C41.4887 81.7832 38.8446 81.0269 35.965 81.0269C26.2254 81.0269 16.4858 81.0269 6.74623 81.0269C6.41725 81.0269 6.08826 81.0554 5.7146 81.0717V83.5927L5.71054 83.5968ZM98.2651 81.0635C97.9645 81.0473 97.7655 81.0269 97.5665 81.0269C87.5873 81.0269 77.6121 81.0025 67.6329 81.0554C66.3048 81.0635 64.936 81.3319 63.6566 81.7223C62.4219 82.1004 61.2806 82.7917 60.0987 83.3447C60.1434 83.4382 60.184 83.5317 60.2287 83.6252H98.2651V81.0635Z" fill="#223883"/>
+                        <path d="M23.7438 32.2165C22.3141 32.2165 21.0023 32.2246 19.6904 32.2083C19.3898 32.2083 19.0852 32.1433 18.7928 32.066C17.9114 31.8342 17.4037 31.1511 17.5215 30.3785C17.6515 29.5328 18.3338 29.0896 19.2964 29.0855C21.1119 29.0733 22.9437 29.1546 24.7308 28.9066C26.5828 28.6504 28.2318 27.7315 29.7062 26.5563C29.0157 25.2877 28.9873 24.5273 29.6574 23.9906C30.4657 23.344 31.2333 23.584 32.005 24.2671C33.5281 22.3722 34.381 20.2293 34.71 17.7205C34.0276 17.7205 33.4265 17.7449 32.8254 17.7164C31.806 17.6677 31.148 17.0455 31.148 16.1794C31.148 15.3011 31.7979 14.7115 32.8335 14.6749C33.4306 14.6546 34.0317 14.6749 34.7059 14.6749C34.4013 12.1783 33.5199 10.0679 32.07 8.1853C30.7743 8.88875 30.0717 8.89282 29.499 8.22597C28.9629 7.60384 29.0238 6.94512 29.7508 5.85538C27.8906 4.37122 25.7786 3.51732 23.2199 3.1595C23.2199 3.81009 23.2361 4.39562 23.2199 4.98522C23.1833 6.07495 22.57 6.77027 21.6765 6.74587C20.8195 6.72554 20.2265 6.05869 20.1818 5.02181C20.1534 4.42408 20.1778 3.82229 20.1778 3.1717C17.6921 3.49699 15.6004 4.35902 13.6874 5.83911C14.2398 6.66048 14.6825 7.53065 13.7808 8.35202C13.001 9.05953 12.2253 8.79523 11.3601 8.04299C10.7225 9.13273 10.1132 10.1777 9.50401 11.2187C9.569 11.2715 9.63398 11.3285 9.69897 11.3813C10.1254 11.1414 10.5438 10.8853 10.9824 10.6616C11.8394 10.2306 12.6842 10.442 13.1025 11.178C13.5046 11.8815 13.3381 12.7557 12.5867 13.2233C11.0352 14.1829 9.45528 15.1019 7.85909 15.9883C7.11988 16.399 6.40505 16.2364 5.86487 15.5654C4.76013 14.1951 3.65132 12.8248 2.58314 11.4301C2.00233 10.6697 2.11606 9.78331 2.77809 9.25471C3.44012 8.72611 4.30929 8.8237 4.94696 9.53528C5.38967 10.0314 5.79176 10.56 6.30758 11.1943C8.02155 6.50597 11.0108 3.18389 15.4826 1.27685C18.8334 -0.154444 22.302 -0.357753 25.8152 0.540874C28.6258 1.25652 31.0668 2.67156 33.1179 4.73311C35.1689 6.7906 36.5742 9.23438 37.3297 12.036C38.0851 14.8335 37.9877 17.6514 37.3094 20.5628H38.6456C46.3626 20.5628 54.0795 20.5628 61.7924 20.5628C64.9482 20.5628 66.5972 22.2218 66.5972 25.3934C66.5972 33.8307 66.5972 42.2681 66.5972 50.7013C66.5972 53.934 64.9482 55.5889 61.7477 55.6052C59.6723 55.6174 59.8875 55.3287 59.9322 57.4309C59.9769 59.464 60.0459 61.493 60.1353 63.5261C60.18 64.5264 59.9484 65.3477 58.9452 65.7625C57.9299 66.1854 57.2028 65.6974 56.5205 64.9981C53.718 62.1029 50.8912 59.2322 48.1009 56.3249C47.5892 55.7881 47.0693 55.5767 46.3301 55.5889C43.9297 55.6336 41.5253 55.6133 39.1208 55.6011C37.9308 55.597 37.2444 55.0237 37.2485 54.0763C37.2525 53.1451 37.9633 52.5555 39.1411 52.5515C41.7121 52.5433 44.2871 52.5637 46.8581 52.5393C48.0847 52.5271 49.0513 52.9865 49.9367 53.8323C52.3046 56.1012 54.7253 58.3214 57.1257 60.5578C57.0891 60.6554 57.0526 60.753 57.016 60.8546C56.9916 60.3138 56.9591 59.773 56.9429 59.2363C56.9104 58.1872 56.8617 57.1381 56.8617 56.085C56.8617 54.0763 58.271 52.6247 60.2734 52.5515C60.9151 52.5271 61.5609 52.5474 62.2026 52.5433C63.0758 52.5433 63.4982 52.0757 63.5429 51.2259C63.5551 51.0226 63.547 50.8193 63.547 50.616C63.547 42.2477 63.547 33.8795 63.547 25.5113C63.547 23.893 63.2749 23.6165 61.6705 23.6165C53.4825 23.6165 45.2903 23.6246 37.1022 23.6002C36.3793 23.6002 35.965 23.7832 35.5832 24.4379C33.7027 27.6461 30.9855 29.9069 27.5292 31.2528C26.9484 31.4764 26.7818 31.7651 26.7859 32.3588C26.8062 38.5597 26.794 44.7607 26.8021 50.9616C26.8021 52.1814 27.1596 52.5393 28.3618 52.5474C29.7833 52.5596 31.2049 52.5352 32.6264 52.5555C33.7352 52.5718 34.3891 53.1614 34.3851 54.0885C34.3851 55.0278 33.7433 55.5889 32.6183 55.597C31.0952 55.6092 29.5721 55.6174 28.049 55.597C25.5471 55.5645 23.7641 53.7998 23.756 51.295C23.7357 45.3665 23.7479 39.438 23.7479 33.5054C23.7479 33.107 23.7479 32.7085 23.7479 32.2165H23.7438Z" fill="#223883"/>
+                        <path d="M13.0416 27.7071C11.9003 27.7071 10.9215 27.7274 9.94673 27.7031C8.4602 27.6665 7.76974 26.6133 8.42771 25.304C9.56088 23.0351 10.7347 20.7824 11.9409 18.5541C12.6395 17.2652 13.5371 16.8138 14.5363 17.0984C15.5679 17.3912 16.0837 18.2085 16.1 19.6439C16.1203 21.067 16.0797 22.4902 16.1365 23.9134C16.1487 24.2427 16.3762 24.6493 16.6361 24.8608C17.5499 25.6212 17.5703 26.6946 16.697 27.455C16.4005 27.7153 16.2421 28.1707 16.1 28.5651C16.0147 28.805 16.0918 29.1018 16.0715 29.3743C16.0025 30.281 15.4298 30.8584 14.6053 30.8787C13.793 30.8991 13.1391 30.3257 13.0538 29.4474C13.001 28.9148 13.0457 28.378 13.0457 27.7112L13.0416 27.7071Z" fill="#223883"/>
+                        <path d="M4.72356 28.1747C5.49525 28.1747 6.12479 28.1543 6.75027 28.1787C7.77784 28.2194 8.41957 28.8212 8.41957 29.7076C8.41957 30.6022 7.79409 31.1999 6.75433 31.2162C5.23125 31.2406 3.71223 31.2568 2.18915 31.2121C0.519858 31.1633 -0.125928 29.9231 0.779797 28.4959C1.86423 26.784 3.02583 25.1169 4.1062 23.3969C4.45956 22.8358 4.79667 22.1892 4.86165 21.5549C4.90227 21.1483 4.42301 20.6929 4.17525 20.2578C3.80565 20.5302 3.28577 20.7295 3.09894 21.0954C2.53439 22.2177 1.90485 22.6731 1.03567 22.3641C0.12995 22.0429 -0.186851 21.1402 0.207119 19.9894C0.942259 17.8344 3.1558 16.6796 5.21907 17.3749C7.33514 18.0905 8.62671 20.579 7.75348 22.7422C7.10363 24.3525 6.07606 25.8122 5.21501 27.3411C5.08504 27.5688 4.95101 27.7924 4.72762 28.1706L4.72356 28.1747Z" fill="#223883"/>
+                        <path d="M45.1319 30.6063C42.0858 30.6063 39.0437 30.6063 35.9975 30.6063C34.71 30.6063 34.0074 30.0736 33.9911 29.114C33.9749 28.13 34.7222 27.5566 36.0544 27.5566C42.1426 27.5566 48.2309 27.5566 54.3192 27.5566C55.6026 27.5566 56.2931 28.0934 56.3053 29.0693C56.3174 30.0655 55.6473 30.6063 54.3638 30.6103C51.2852 30.6185 48.2065 30.6103 45.1319 30.6103V30.6063Z" fill="#223883"/>
+                        <path d="M45.1279 39.5518C42.0492 39.5518 38.9706 39.5559 35.8919 39.5518C34.6938 39.5518 34.0033 38.9907 33.9911 38.0555C33.9789 37.1243 34.6938 36.5022 35.8554 36.5022C42.0452 36.4941 48.235 36.4941 54.4248 36.5022C55.6229 36.5022 56.2971 37.0633 56.3053 38.0189C56.3134 38.9907 55.6635 39.5478 54.4613 39.5518C51.3502 39.56 48.239 39.5518 45.1279 39.5518Z" fill="#223883"/>
+                        <path d="M45.0913 48.4976C42.0127 48.4976 38.934 48.5016 35.8594 48.4976C34.6816 48.4976 33.9789 47.9039 33.9911 46.9687C34.0033 46.0456 34.7181 45.452 35.8919 45.452C42.0817 45.4438 48.2715 45.452 54.4613 45.4438C55.233 45.4438 55.9803 45.639 56.1631 46.4157C56.2809 46.9199 56.1063 47.6355 55.7935 48.0543C55.5579 48.3674 54.9 48.4772 54.4248 48.4854C51.3136 48.5219 48.2025 48.5057 45.0913 48.5057V48.4976Z" fill="#223883"/>
+                        <path d="M23.2239 14.6832C23.89 14.6832 24.4221 14.6547 24.9501 14.6913C25.8233 14.7523 26.3269 15.2809 26.3675 16.1226C26.4082 16.9765 25.9086 17.5945 25.0719 17.6637C23.9022 17.7613 22.7081 17.7531 21.5384 17.6718C20.6895 17.6108 20.2143 16.9927 20.2021 16.151C20.1737 14.1586 20.1615 12.1662 20.2021 10.1738C20.2265 9.21007 20.8885 8.6164 21.7374 8.6286C22.5862 8.6408 23.1914 9.24666 23.2158 10.2225C23.2523 11.666 23.2239 13.1095 23.2239 14.6872V14.6832Z" fill="#223883"/>
+                        <path d="M53.5434 92.9084C53.515 93.4492 53.5312 93.9982 53.45 94.5268C53.3241 95.3034 52.7839 95.7182 52.0325 95.7344C51.2365 95.7507 50.6069 95.3359 50.5379 94.5105C50.4485 93.4004 50.4485 92.2741 50.5338 91.1681C50.5947 90.3549 51.1755 89.9198 52 89.9239C52.8245 89.9279 53.3525 90.3711 53.4581 91.1844C53.5312 91.7496 53.4703 92.331 53.4703 92.9084C53.4947 92.9084 53.519 92.9084 53.5434 92.9084Z" fill="#223883"/>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_63_2633">
+                        <rect width="104" height="101" fill="white"/>
+                        </clipPath>
+                        </defs>
+                    </svg>                        
+                </div>
+                <div class="xl:hidden">
+                    <h3 class="font-sans font-medium text-3xl mx-8 mb-8 mt-8 xl:mt-0">Repleto de características</h3>
+                    <p class="text-xl mb-12 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                    <div class="ml-8 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+                </div>
+            </div>
+            <div class="bg-hanBlue flex flex-col xl:flex-row items-center rounded-lg py-8 pr-8">
+                <div class="hidden xl:block">
+                    <h3 class="font-sans font-medium text-3xl mx-8 mb-8">Repleto de características</h3>
+                    <p class="text-xl mb-12 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                    <div class="ml-8 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+                </div>
+                <div class="inline-block bg-white rounded-full p-10">
+                    <svg width="104" height="101" viewBox="0 0 104 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_63_2633)">
+                        <path d="M101.368 83.6334C101.803 83.6618 102.14 83.6618 102.469 83.7025C103.403 83.8204 103.963 84.3368 103.972 85.3046C103.988 87.0327 104.037 88.7649 103.951 90.4889C103.817 93.1076 101.758 95.2952 99.1749 95.6611C98.5738 95.7465 97.9605 95.7709 97.3553 95.7709C86.5922 95.7791 75.8291 95.7994 65.066 95.7506C63.2464 95.7425 62.0117 96.3443 61.0979 97.9667C60.0134 99.8981 58.2264 100.915 55.9966 100.955C53.3241 101.008 50.6475 101.012 47.975 100.955C45.7087 100.902 43.9297 99.8412 42.8209 97.8691C41.9761 96.3646 40.8104 95.7465 39.1046 95.7587C33.0813 95.8035 27.054 95.7791 21.0307 95.7709C20.6286 95.7709 20.2103 95.7669 19.8244 95.6693C19.073 95.4822 18.675 94.9414 18.7075 94.181C18.744 93.3759 19.1989 92.8636 20.0194 92.7498C20.3199 92.7091 20.6286 92.7172 20.9332 92.7172C27.0255 92.7172 33.1179 92.7416 39.2102 92.705C41.972 92.6888 44.0312 93.7866 45.3716 96.2223C45.997 97.3567 46.9799 97.9219 48.2837 97.9179C50.7531 97.9179 53.2266 97.9138 55.696 97.9179C57.0444 97.9179 58.0192 97.3079 58.6691 96.145C59.9769 93.7866 61.9873 92.705 64.668 92.7091C75.5326 92.7254 86.3973 92.7172 97.2619 92.7091C97.733 92.7091 98.2123 92.7091 98.6794 92.6359C99.9385 92.4407 100.84 91.5096 100.909 90.2409C100.97 89.1268 100.921 88.0086 100.921 86.8172H3.08678C3.08678 88.0574 2.99336 89.2732 3.11115 90.4727C3.24924 91.8552 4.40678 92.6928 6.03952 92.7091C8.5455 92.7335 11.0474 92.7172 13.5534 92.7172C13.858 92.7172 14.1626 92.7091 14.4672 92.7457C15.2917 92.8392 15.7669 93.3393 15.8197 94.1404C15.8725 94.9496 15.4461 95.4944 14.6459 95.6896C14.3535 95.7587 14.0448 95.7709 13.7402 95.7709C11.2018 95.775 8.66328 95.7913 6.12481 95.7709C2.34757 95.7425 0.0081231 93.3719 0 89.5863C0 88.3664 0 87.1465 0 85.9267C0 84.1864 0.373662 83.7919 2.10794 83.6862C2.24197 83.6781 2.37194 83.6456 2.61158 83.6049C2.61158 81.4417 2.71718 79.2744 2.58721 77.1193C2.35976 73.3296 3.88284 72.183 7.46919 72.2155C19.1096 72.3253 30.754 72.2928 42.3985 72.2358C46.3098 72.2155 49.4453 73.5695 51.7482 76.7656C51.801 76.8388 51.8903 76.8916 52.0203 77.0014C52.2153 76.7493 52.394 76.5175 52.5767 76.2898C54.6197 73.7322 57.2597 72.309 60.5414 72.2724C65.5493 72.2196 70.5613 72.2521 75.5692 72.2602C76.7592 72.2602 77.4253 72.8336 77.4172 73.7973C77.409 74.7569 76.747 75.3058 75.5367 75.3058C70.5613 75.3139 65.5859 75.2733 60.6105 75.3221C56.2281 75.3668 52.8773 79.3761 53.6409 83.5968C54.4775 83.8489 55.1639 83.6496 55.826 83.0275C58.3644 80.6488 61.2481 78.8637 64.737 78.2782C65.8011 78.0993 66.8856 77.9854 67.9619 77.9854C77.6406 77.9651 87.3233 77.9732 97.002 77.9732C97.4 77.9732 97.798 77.9732 98.257 77.9732V75.3099C97.9077 75.3099 97.5543 75.3099 97.201 75.3099C92.3271 75.3099 87.4533 75.3099 82.5794 75.3099C82.2423 75.3099 81.893 75.3424 81.5681 75.2733C80.772 75.1106 80.3049 74.578 80.309 73.7769C80.309 72.9759 80.7761 72.4514 81.5721 72.2846C81.8321 72.2318 82.1123 72.2562 82.3804 72.2562C87.4898 72.2562 92.6033 72.2521 97.7127 72.2562C100.085 72.2562 101.356 73.5208 101.368 75.8832C101.376 78.1196 101.368 80.356 101.368 82.5924C101.368 82.9258 101.368 83.2552 101.368 83.6334ZM5.71054 77.9732C6.21417 77.9732 6.61626 77.9732 7.01836 77.9732C16.693 77.9732 26.3635 77.9651 36.0381 77.9854C37.1144 77.9854 38.1989 78.1074 39.263 78.2823C42.7559 78.8637 45.6234 80.665 48.1659 83.0316C48.8279 83.6496 49.5103 83.8489 50.3632 83.5886C50.3957 83.4707 50.4404 83.3813 50.4485 83.2837C50.7612 78.819 47.5364 75.318 43.0605 75.3099C30.9531 75.2977 18.8456 75.3058 6.73811 75.3099C6.41318 75.3099 6.0842 75.3383 5.7146 75.3587V77.9732H5.71054ZM5.71054 83.5968H44.0353C41.4887 81.7832 38.8446 81.0269 35.965 81.0269C26.2254 81.0269 16.4858 81.0269 6.74623 81.0269C6.41725 81.0269 6.08826 81.0554 5.7146 81.0717V83.5927L5.71054 83.5968ZM98.2651 81.0635C97.9645 81.0473 97.7655 81.0269 97.5665 81.0269C87.5873 81.0269 77.6121 81.0025 67.6329 81.0554C66.3048 81.0635 64.936 81.3319 63.6566 81.7223C62.4219 82.1004 61.2806 82.7917 60.0987 83.3447C60.1434 83.4382 60.184 83.5317 60.2287 83.6252H98.2651V81.0635Z" fill="#223883"/>
+                        <path d="M23.7438 32.2165C22.3141 32.2165 21.0023 32.2246 19.6904 32.2083C19.3898 32.2083 19.0852 32.1433 18.7928 32.066C17.9114 31.8342 17.4037 31.1511 17.5215 30.3785C17.6515 29.5328 18.3338 29.0896 19.2964 29.0855C21.1119 29.0733 22.9437 29.1546 24.7308 28.9066C26.5828 28.6504 28.2318 27.7315 29.7062 26.5563C29.0157 25.2877 28.9873 24.5273 29.6574 23.9906C30.4657 23.344 31.2333 23.584 32.005 24.2671C33.5281 22.3722 34.381 20.2293 34.71 17.7205C34.0276 17.7205 33.4265 17.7449 32.8254 17.7164C31.806 17.6677 31.148 17.0455 31.148 16.1794C31.148 15.3011 31.7979 14.7115 32.8335 14.6749C33.4306 14.6546 34.0317 14.6749 34.7059 14.6749C34.4013 12.1783 33.5199 10.0679 32.07 8.1853C30.7743 8.88875 30.0717 8.89282 29.499 8.22597C28.9629 7.60384 29.0238 6.94512 29.7508 5.85538C27.8906 4.37122 25.7786 3.51732 23.2199 3.1595C23.2199 3.81009 23.2361 4.39562 23.2199 4.98522C23.1833 6.07495 22.57 6.77027 21.6765 6.74587C20.8195 6.72554 20.2265 6.05869 20.1818 5.02181C20.1534 4.42408 20.1778 3.82229 20.1778 3.1717C17.6921 3.49699 15.6004 4.35902 13.6874 5.83911C14.2398 6.66048 14.6825 7.53065 13.7808 8.35202C13.001 9.05953 12.2253 8.79523 11.3601 8.04299C10.7225 9.13273 10.1132 10.1777 9.50401 11.2187C9.569 11.2715 9.63398 11.3285 9.69897 11.3813C10.1254 11.1414 10.5438 10.8853 10.9824 10.6616C11.8394 10.2306 12.6842 10.442 13.1025 11.178C13.5046 11.8815 13.3381 12.7557 12.5867 13.2233C11.0352 14.1829 9.45528 15.1019 7.85909 15.9883C7.11988 16.399 6.40505 16.2364 5.86487 15.5654C4.76013 14.1951 3.65132 12.8248 2.58314 11.4301C2.00233 10.6697 2.11606 9.78331 2.77809 9.25471C3.44012 8.72611 4.30929 8.8237 4.94696 9.53528C5.38967 10.0314 5.79176 10.56 6.30758 11.1943C8.02155 6.50597 11.0108 3.18389 15.4826 1.27685C18.8334 -0.154444 22.302 -0.357753 25.8152 0.540874C28.6258 1.25652 31.0668 2.67156 33.1179 4.73311C35.1689 6.7906 36.5742 9.23438 37.3297 12.036C38.0851 14.8335 37.9877 17.6514 37.3094 20.5628H38.6456C46.3626 20.5628 54.0795 20.5628 61.7924 20.5628C64.9482 20.5628 66.5972 22.2218 66.5972 25.3934C66.5972 33.8307 66.5972 42.2681 66.5972 50.7013C66.5972 53.934 64.9482 55.5889 61.7477 55.6052C59.6723 55.6174 59.8875 55.3287 59.9322 57.4309C59.9769 59.464 60.0459 61.493 60.1353 63.5261C60.18 64.5264 59.9484 65.3477 58.9452 65.7625C57.9299 66.1854 57.2028 65.6974 56.5205 64.9981C53.718 62.1029 50.8912 59.2322 48.1009 56.3249C47.5892 55.7881 47.0693 55.5767 46.3301 55.5889C43.9297 55.6336 41.5253 55.6133 39.1208 55.6011C37.9308 55.597 37.2444 55.0237 37.2485 54.0763C37.2525 53.1451 37.9633 52.5555 39.1411 52.5515C41.7121 52.5433 44.2871 52.5637 46.8581 52.5393C48.0847 52.5271 49.0513 52.9865 49.9367 53.8323C52.3046 56.1012 54.7253 58.3214 57.1257 60.5578C57.0891 60.6554 57.0526 60.753 57.016 60.8546C56.9916 60.3138 56.9591 59.773 56.9429 59.2363C56.9104 58.1872 56.8617 57.1381 56.8617 56.085C56.8617 54.0763 58.271 52.6247 60.2734 52.5515C60.9151 52.5271 61.5609 52.5474 62.2026 52.5433C63.0758 52.5433 63.4982 52.0757 63.5429 51.2259C63.5551 51.0226 63.547 50.8193 63.547 50.616C63.547 42.2477 63.547 33.8795 63.547 25.5113C63.547 23.893 63.2749 23.6165 61.6705 23.6165C53.4825 23.6165 45.2903 23.6246 37.1022 23.6002C36.3793 23.6002 35.965 23.7832 35.5832 24.4379C33.7027 27.6461 30.9855 29.9069 27.5292 31.2528C26.9484 31.4764 26.7818 31.7651 26.7859 32.3588C26.8062 38.5597 26.794 44.7607 26.8021 50.9616C26.8021 52.1814 27.1596 52.5393 28.3618 52.5474C29.7833 52.5596 31.2049 52.5352 32.6264 52.5555C33.7352 52.5718 34.3891 53.1614 34.3851 54.0885C34.3851 55.0278 33.7433 55.5889 32.6183 55.597C31.0952 55.6092 29.5721 55.6174 28.049 55.597C25.5471 55.5645 23.7641 53.7998 23.756 51.295C23.7357 45.3665 23.7479 39.438 23.7479 33.5054C23.7479 33.107 23.7479 32.7085 23.7479 32.2165H23.7438Z" fill="#223883"/>
+                        <path d="M13.0416 27.7071C11.9003 27.7071 10.9215 27.7274 9.94673 27.7031C8.4602 27.6665 7.76974 26.6133 8.42771 25.304C9.56088 23.0351 10.7347 20.7824 11.9409 18.5541C12.6395 17.2652 13.5371 16.8138 14.5363 17.0984C15.5679 17.3912 16.0837 18.2085 16.1 19.6439C16.1203 21.067 16.0797 22.4902 16.1365 23.9134C16.1487 24.2427 16.3762 24.6493 16.6361 24.8608C17.5499 25.6212 17.5703 26.6946 16.697 27.455C16.4005 27.7153 16.2421 28.1707 16.1 28.5651C16.0147 28.805 16.0918 29.1018 16.0715 29.3743C16.0025 30.281 15.4298 30.8584 14.6053 30.8787C13.793 30.8991 13.1391 30.3257 13.0538 29.4474C13.001 28.9148 13.0457 28.378 13.0457 27.7112L13.0416 27.7071Z" fill="#223883"/>
+                        <path d="M4.72356 28.1747C5.49525 28.1747 6.12479 28.1543 6.75027 28.1787C7.77784 28.2194 8.41957 28.8212 8.41957 29.7076C8.41957 30.6022 7.79409 31.1999 6.75433 31.2162C5.23125 31.2406 3.71223 31.2568 2.18915 31.2121C0.519858 31.1633 -0.125928 29.9231 0.779797 28.4959C1.86423 26.784 3.02583 25.1169 4.1062 23.3969C4.45956 22.8358 4.79667 22.1892 4.86165 21.5549C4.90227 21.1483 4.42301 20.6929 4.17525 20.2578C3.80565 20.5302 3.28577 20.7295 3.09894 21.0954C2.53439 22.2177 1.90485 22.6731 1.03567 22.3641C0.12995 22.0429 -0.186851 21.1402 0.207119 19.9894C0.942259 17.8344 3.1558 16.6796 5.21907 17.3749C7.33514 18.0905 8.62671 20.579 7.75348 22.7422C7.10363 24.3525 6.07606 25.8122 5.21501 27.3411C5.08504 27.5688 4.95101 27.7924 4.72762 28.1706L4.72356 28.1747Z" fill="#223883"/>
+                        <path d="M45.1319 30.6063C42.0858 30.6063 39.0437 30.6063 35.9975 30.6063C34.71 30.6063 34.0074 30.0736 33.9911 29.114C33.9749 28.13 34.7222 27.5566 36.0544 27.5566C42.1426 27.5566 48.2309 27.5566 54.3192 27.5566C55.6026 27.5566 56.2931 28.0934 56.3053 29.0693C56.3174 30.0655 55.6473 30.6063 54.3638 30.6103C51.2852 30.6185 48.2065 30.6103 45.1319 30.6103V30.6063Z" fill="#223883"/>
+                        <path d="M45.1279 39.5518C42.0492 39.5518 38.9706 39.5559 35.8919 39.5518C34.6938 39.5518 34.0033 38.9907 33.9911 38.0555C33.9789 37.1243 34.6938 36.5022 35.8554 36.5022C42.0452 36.4941 48.235 36.4941 54.4248 36.5022C55.6229 36.5022 56.2971 37.0633 56.3053 38.0189C56.3134 38.9907 55.6635 39.5478 54.4613 39.5518C51.3502 39.56 48.239 39.5518 45.1279 39.5518Z" fill="#223883"/>
+                        <path d="M45.0913 48.4976C42.0127 48.4976 38.934 48.5016 35.8594 48.4976C34.6816 48.4976 33.9789 47.9039 33.9911 46.9687C34.0033 46.0456 34.7181 45.452 35.8919 45.452C42.0817 45.4438 48.2715 45.452 54.4613 45.4438C55.233 45.4438 55.9803 45.639 56.1631 46.4157C56.2809 46.9199 56.1063 47.6355 55.7935 48.0543C55.5579 48.3674 54.9 48.4772 54.4248 48.4854C51.3136 48.5219 48.2025 48.5057 45.0913 48.5057V48.4976Z" fill="#223883"/>
+                        <path d="M23.2239 14.6832C23.89 14.6832 24.4221 14.6547 24.9501 14.6913C25.8233 14.7523 26.3269 15.2809 26.3675 16.1226C26.4082 16.9765 25.9086 17.5945 25.0719 17.6637C23.9022 17.7613 22.7081 17.7531 21.5384 17.6718C20.6895 17.6108 20.2143 16.9927 20.2021 16.151C20.1737 14.1586 20.1615 12.1662 20.2021 10.1738C20.2265 9.21007 20.8885 8.6164 21.7374 8.6286C22.5862 8.6408 23.1914 9.24666 23.2158 10.2225C23.2523 11.666 23.2239 13.1095 23.2239 14.6872V14.6832Z" fill="#223883"/>
+                        <path d="M53.5434 92.9084C53.515 93.4492 53.5312 93.9982 53.45 94.5268C53.3241 95.3034 52.7839 95.7182 52.0325 95.7344C51.2365 95.7507 50.6069 95.3359 50.5379 94.5105C50.4485 93.4004 50.4485 92.2741 50.5338 91.1681C50.5947 90.3549 51.1755 89.9198 52 89.9239C52.8245 89.9279 53.3525 90.3711 53.4581 91.1844C53.5312 91.7496 53.4703 92.331 53.4703 92.9084C53.4947 92.9084 53.519 92.9084 53.5434 92.9084Z" fill="#223883"/>
+                        </g>
+                        <defs>
+                        <clipPath id="clip0_63_2633">
+                        <rect width="104" height="101" fill="white"/>
+                        </clipPath>
+                        </defs>
+                    </svg>                        
+                </div>
+                <div class="xl:hidden">
+                    <h3 class="font-sans font-medium text-3xl mx-8 mb-8 mt-8 xl:mt-0">Repleto de características</h3>
+                    <p class="text-xl mb-12 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                    <div class="ml-8 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+";s:6:"block9";s:1:"1";s:11:"block9class";s:0:"";s:19:"block9footercontent";s:0:"";s:17:"block9htmlcontent";s:0:"";s:18:"block9introcontent";s:0:"";s:16:"block9introtitle";s:3467:"    <div id="block-8--home" class="xl:container mx-auto mt-12 xl:mb-36 px-4 xl:w-screen">
+        <h1 class="text-azulExperto font-black text-3xl xl:text-5xl mx-auto xl:px-10 my-24 xl:my-36">Bloque #8</h1>
+        <div class="grid grid-cols-1 xl:grid-cols-2 justify-between gap-5">
+            <div class="bg-chromeYellow flex flex-col xl:flex-row items-center rounded-lg py-8 px-8">
+                <div class="min-w-fit">
+                   <img src="assets/img/block-8-img.png" alt="" class="">                        
+                </div>
+                <div class="">
+                    <h3 class="font-sans font-medium text-3xl mx-8 mb-2 mt-8 xl:mt-0">Lorem ipsum dolor</h3>
+                    <p class="text-xl mb-2 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                    <div class="mt-6 xl:mt-0 ml-8 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+                </div>
+            </div>
+            <div class="bg-sunglow flex flex-col xl:flex-row items-center rounded-lg py-8 px-8">
+                <div class="min-w-fit">
+                   <img src="assets/img/block-8-img.png" alt="" class="">                        
+                </div>
+                <div class="">
+                    <h3 class="font-sans font-medium text-3xl mx-8 mb-2 mt-8 xl:mt-0">Lorem ipsum dolor</h3>
+                    <p class="text-xl mb-2 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                    <div class="mt-6 xl:mt-0 ml-8 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+                </div>
+            </div>
+            <div class="bg-jasper flex flex-col xl:flex-row items-center rounded-lg py-8 px-8">
+                <div class="min-w-fit">
+                   <img src="assets/img/block-8-img.png" alt="" class="">                        
+                </div>
+                <div class="">
+                    <h3 class="font-sans font-medium text-3xl mx-8 mb-2 mt-8 xl:mt-0">Lorem ipsum dolor</h3>
+                    <p class="text-xl mb-2 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                    <div class="mt-6 xl:mt-0 ml-8 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+                </div>
+            </div>
+            <div class="bg-silverLakeBlue flex flex-col xl:flex-row items-center rounded-lg py-8 px-8">
+                <div class="min-w-fit">
+                   <img src="assets/img/block-8-img.png" alt="" class="">                        
+                </div>
+                <div class="">
+                    <h3 class="font-sans font-medium text-3xl mx-8 mb-2 mt-8 xl:mt-0">Lorem ipsum dolor</h3>
+                    <p class="text-xl mb-2 mx-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita minima molestias assumenda quis inventore tenetur minus</p>
+                    <div class="ml-8 hover:bg-eerieBlack bg-azulExperto text-white px-10 py-4 rounded-md inline-block"><a href="#">Acceso</a></div>
+                </div>
+            </div>            
+        </div>
+    </div>
+";s:9:"cccfooter";s:1:"0";s:11:"cccteachers";s:1:"0";s:16:"closecustomalert";s:1:"0";s:10:"colorblack";s:0:"";s:9:"colorbody";s:0:"";s:11:"colorbodybg";s:0:"";s:14:"colorbodylight";s:0:"";s:18:"colorbodysecondary";s:0:"";s:11:"colorborder";s:0:"";s:16:"colorcontainerbg";s:0:"";s:12:"colorgray100";s:0:"";s:12:"colorgray200";s:0:"";s:12:"colorgray300";s:0:"";s:12:"colorgray400";s:0:"";s:12:"colorgray500";s:0:"";s:12:"colorgray600";s:0:"";s:12:"colorgray700";s:0:"";s:12:"colorgray800";s:0:"";s:12:"colorgray900";s:0:"";s:13:"colorheadings";s:0:"";s:9:"colorlink";s:0:"";s:14:"colorlinkhover";s:0:"";s:15:"colorprimary100";s:0:"";s:15:"colorprimary200";s:0:"";s:15:"colorprimary300";s:0:"";s:15:"colorprimary400";s:0:"";s:15:"colorprimary500";s:0:"";s:15:"colorprimary600";s:7:"#223883";s:15:"colorprimary700";s:0:"";s:15:"colorprimary800";s:0:"";s:15:"colorprimary900";s:0:"";s:17:"colorsecondary100";s:0:"";s:17:"colorsecondary200";s:0:"";s:17:"colorsecondary300";s:0:"";s:17:"colorsecondary400";s:0:"";s:17:"colorsecondary500";s:0:"";s:17:"colorsecondary600";s:7:"#FFDB02";s:17:"colorsecondary700";s:0:"";s:17:"colorsecondary800";s:0:"";s:17:"colorsecondary900";s:0:"";s:13:"colortopbarbg";s:7:"#FFDB02";s:14:"colortopbarbtn";s:7:"#223883";s:19:"colortopbarbtnhover";s:7:"#223883";s:23:"colortopbarbtnhovertext";s:0:"";s:18:"colortopbarbtntext";s:7:"#1B1B1B";s:15:"colortopbartext";s:7:"#1B1B1B";s:10:"colorwhite";s:0:"";s:19:"coursecarddesclimit";s:0:"";s:17:"courseprogressbar";s:1:"1";s:11:"customalert";s:0:"";s:14:"customdcolsize";s:0:"";s:17:"customfloatingbtn";s:0:"";s:17:"customlogindmlogo";s:0:"";s:15:"customloginlogo";s:0:"";s:10:"customlogo";s:24:"/login-pintuco-logos.png";s:14:"customnavitems";s:0:"";s:19:"customsignupoutside";s:1:"0";s:16:"customsocialicon";s:0:"";s:11:"cwebsiteurl";s:0:"";s:13:"darkmodefirst";s:1:"0";s:13:"darkmodetheme";s:1:"0";s:13:"displayblock1";s:1:"1";s:14:"displayblock10";s:1:"0";s:14:"displayblock11";s:1:"0";s:14:"displayblock12";s:1:"0";s:14:"displayblock13";s:1:"0";s:14:"displayblock14";s:1:"0";s:14:"displayblock15";s:1:"0";s:14:"displayblock16";s:1:"0";s:14:"displayblock17";s:1:"0";s:14:"displayblock18";s:1:"0";s:14:"displayblock19";s:1:"0";s:13:"displayblock2";s:1:"1";s:13:"displayblock3";s:1:"1";s:13:"displayblock4";s:1:"1";s:13:"displayblock5";s:1:"1";s:13:"displayblock6";s:1:"1";s:13:"displayblock7";s:1:"0";s:13:"displayblock8";s:1:"0";s:13:"displayblock9";s:1:"0";s:18:"displaycustomalert";s:1:"0";s:16:"displayhrblock10";s:1:"0";s:16:"displayhrblock11";s:1:"0";s:16:"displayhrblock12";s:1:"0";s:16:"displayhrblock13";s:1:"0";s:16:"displayhrblock14";s:1:"0";s:16:"displayhrblock15";s:1:"0";s:16:"displayhrblock16";s:1:"0";s:16:"displayhrblock17";s:1:"0";s:16:"displayhrblock18";s:1:"0";s:16:"displayhrblock19";s:1:"0";s:15:"displayhrblock2";s:1:"1";s:15:"displayhrblock3";s:1:"1";s:15:"displayhrblock4";s:1:"1";s:15:"displayhrblock5";s:1:"1";s:15:"displayhrblock6";s:1:"1";s:15:"displayhrblock7";s:1:"1";s:15:"displayhrblock8";s:1:"1";s:15:"displayhrblock9";s:1:"1";s:8:"facebook";s:0:"";s:7:"favicon";s:0:"";s:11:"fontawesome";s:1:"0";s:8:"fontbody";s:0:"";s:9:"fontfiles";s:0:"";s:14:"fontweightbold";s:0:"";s:18:"fontweightheadings";s:0:"";s:16:"fontweightmedium";s:0:"";s:17:"fontweightregular";s:0:"";s:12:"footerblock1";s:0:"";s:12:"footerblock2";s:0:"";s:12:"footerblock3";s:0:"";s:10:"footercopy";s:0:"";s:13:"googlefonturl";s:101:"https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700;800;900&display=swap";s:18:"hidecourseindexnav";s:1:"0";s:18:"hideforgotpassword";s:1:"0";s:6:"hvpcss";s:0:"";s:15:"iconcustomitem1";s:0:"";s:15:"iconcustomitem2";s:0:"";s:15:"iconcustomitem3";s:0:"";s:15:"iconcustomitem4";s:0:"";s:15:"iconcustomitem5";s:0:"";s:9:"instagram";s:0:"";s:13:"ipcourseimage";s:1:"0";s:15:"ipcoursesummary";s:1:"0";s:15:"iscustomitem1on";s:1:"0";s:15:"iscustomitem2on";s:1:"0";s:15:"iscustomitem3on";s:1:"0";s:15:"iscustomitem4on";s:1:"0";s:15:"iscustomitem5on";s:1:"0";s:16:"isitemoncalendar";s:1:"0";s:19:"isitemoncontentbank";s:1:"0";s:17:"isitemondashboard";s:1:"0";s:17:"isitemonmycourses";s:1:"0";s:20:"isitemonprivatefiles";s:1:"0";s:16:"isitemonsitehome";s:1:"1";s:16:"labelcustomitem1";s:0:"";s:16:"labelcustomitem2";s:0:"";s:16:"labelcustomitem3";s:0:"";s:16:"labelcustomitem4";s:0:"";s:16:"labelcustomitem5";s:0:"";s:8:"linkedin";s:0:"";s:7:"loginbg";s:0:"";s:12:"loginbgcolor";s:0:"";s:21:"logincustomfooterhtml";s:0:"";s:18:"loginfootercontent";s:0:"";s:20:"loginhtmlblockbottom";s:0:"";s:17:"loginhtmlcontent1";s:0:"";s:17:"loginhtmlcontent2";s:0:"";s:17:"loginhtmlcontent3";s:0:"";s:14:"loginidprovtop";s:1:"0";s:12:"logininfobox";s:0:"";s:14:"loginintrotext";s:0:"";s:16:"loginlogooutside";s:1:"0";s:13:"logocontainer";s:1:"0";s:4:"mail";s:0:"";s:6:"mobile";s:0:"";s:11:"poscalendar";s:1:"1";s:14:"poscontentbank";s:1:"1";s:14:"poscustomitem1";s:1:"1";s:14:"poscustomitem2";s:1:"1";s:14:"poscustomitem3";s:1:"1";s:14:"poscustomitem4";s:1:"1";s:14:"poscustomitem5";s:1:"1";s:12:"posdashboard";s:1:"1";s:12:"posmycourses";s:1:"1";s:15:"posprivatefiles";s:1:"1";s:11:"possitehome";s:1:"1";s:4:"scss";s:0:"";s:7:"scsspre";s:0:"";s:9:"sdarkmode";s:0:"";s:17:"seoappletouchicon";s:0:"";s:11:"seometadesc";s:0:"";s:13:"seothemecolor";s:0:"";s:14:"setcourseimage";s:1:"0";s:18:"setdashboardlayout";s:1:"1";s:14:"setloginlayout";s:1:"1";s:23:"showblock1sliderwrapper";s:1:"0";s:17:"showfooterbuttons";s:1:"1";s:25:"showhintcourseguestaccess";s:1:"0";s:20:"showhintcoursehidden";s:1:"0";s:23:"showhintcourseselfenrol";s:1:"0";s:14:"showsociallist";s:1:"0";s:24:"showswitchedroleincourse";s:1:"0";s:15:"signupintrotext";s:0:"";s:10:"signuptext";s:0:"";s:17:"stickybreadcrumbs";s:2:"no";s:20:"stopbaradditionalbtn";s:0:"";s:12:"stringaccess";s:0:"";s:16:"stringallcourses";s:0:"";s:17:"stringbacktologin";s:0:"";s:8:"stringca";s:0:"";s:15:"stringnocourses";s:0:"";s:11:"themeauthor";s:1:"0";s:19:"topbaradditionalbtn";s:1:"0";s:22:"topbaradditionalbtnurl";s:0:"";s:19:"topbarhamburgermenu";s:1:"0";s:20:"turnoffdashboardlink";s:1:"0";s:7:"twitter";s:0:"";s:15:"unaddableblocks";s:0:"";s:14:"urlcustomitem1";s:0:"";s:14:"urlcustomitem2";s:0:"";s:14:"urlcustomitem3";s:0:"";s:14:"urlcustomitem4";s:0:"";s:14:"urlcustomitem5";s:0:"";s:7:"version";s:13:"2023091002.01";s:7:"website";s:0:"";s:11:"wrappermdfw";s:2:"no";s:7:"youtube";s:0:"";}

@@ -1,0 +1,15 @@
+a:2:{s:4:"data";s:288:"/** Path: plugin enrol_lti .' **/
+/* enrol_lti styles */
+
+#registration-tab-content .input-group-append button.btn {
+    border: solid 1px #8f959e;
+}
+form#auto_submit {
+    display: none;
+}
+#registration-tab-content .input-group-append button.btn span.pix {
+    padding-left: 0.5rem;
+}
+
+
+";s:7:"created";i:1699977233;}

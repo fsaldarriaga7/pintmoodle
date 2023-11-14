@@ -1,0 +1,8 @@
+a:2:{s:4:"data";s:134:"/** Path: plugin qbank_usage .' **/
+#categoryquestions td.questionlastused span.date {
+    font-weight: 400;
+    font-size: .8em;
+}
+
+
+";s:7:"created";i:1699977339;}

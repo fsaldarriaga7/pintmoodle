@@ -1,0 +1,29 @@
+#FF5853 Sunset Orange
+#D84141 Jasper
+#386ECE Han Blue
+#5F88C7 Silver Lake Blue
+#FBA701 Chrome Yellow
+#FFC033 Sunglow
+#FFFDE8 Cosmic Latte
+#FFDB02 Sizzling Sunrise (Amarillo Pintuco)
+#223883 Dark Cornflower Blue (Azul Experto)
+#E50321 Cadmium Red (Rojo Experto)
+#00A070 Green (NCS)
+#94C11F Dark Lemon Lime
+
+
+https://fonts.google.com/specimen/Montserrat
+https://freefontsfamily.com/futura-pt-font-free-download/
+
+amarilloPintuco:'#FFDB02', /* sizzlingSunrise */
+azulExperto:'#223883', /* darkCornflowerBlue */
+rojoExperto:'#E50321', /* cadmiumRed */
+sunsetOrange:'#FF5853',
+jasper:'#D84141',
+hanBlue:'#386ECE',
+silverLakeBlue:'#5F88C7',
+chromeYellow:'#FBA701',
+sunglow:'#FFC033',
+cosmicLatte:'#FFFDE8',
+greenNCS:'#00A070',
+darkLemonLime:'#94C11F',

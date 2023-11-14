@@ -1,0 +1,46 @@
+.tertiary-navigation {
+  width: $wrapper-md;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include media-breakpoint-down(md) {
+    width: 100%;
+  }
+
+  .path-report &,
+  .path-admin &,
+  .path-enrol &,
+  .path-grade-report &,
+  .path-group &
+  {
+    width: 100%;
+  }
+
+  .path-group & {
+    margin-top: $page-padding-global;
+  }
+
+  .navitem {
+      display: flex;
+      margin-bottom: 25px;
+  }
+
+  & > a.btn,
+  & > div.urlselect {
+      margin-bottom: 25px;
+  }
+
+  .navitem:not(:last-child) {
+      margin-right: 20px;
+  }
+}
+
+@media print {
+  .tertiary-navigation {
+      display: none;
+  }
+}
+
+.path-report .tertiary-navigation {
+  margin-bottom: $page-padding-global;
+}

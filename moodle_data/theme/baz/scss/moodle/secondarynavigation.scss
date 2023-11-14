@@ -1,0 +1,43 @@
+.secondary-navigation {
+    max-width: 100%;
+    margin: 0 auto 30px;
+
+    #page-admin-search & {
+        display: none;
+    }
+    #page-site-index & {
+        margin: 20px auto 0;
+        top: 70px;
+        position: sticky;
+        z-index: $zindex-fixed;
+    }
+    .navigation {
+        .nav-tabs {
+            .nav-link {
+                font-size: $font-size-sm;
+                border-radius: $btn-border-radius;
+
+                &.active {
+                    background-color: $primary-color-100;
+                    color: $primary-color-600;
+
+                    .theme-dark & {
+                        background-color: $dm-gray-300;
+                        color: $dm-gray-800;
+                    }
+                }
+
+                &:hover {
+                    background-color: $gray-300;
+                    color: $primary-color-600;
+
+                    .theme-dark & {
+                        background-color: $dm-gray-200;
+                        color: $dm-gray-800;
+                    }
+
+                }
+            }
+        }
+    }
+}

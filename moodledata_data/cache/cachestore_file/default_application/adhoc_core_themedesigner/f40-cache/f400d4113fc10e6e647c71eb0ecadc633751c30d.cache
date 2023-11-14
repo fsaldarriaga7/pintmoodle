@@ -1,0 +1,9 @@
+a:2:{s:4:"data";s:173:"/** Path: plugin qbank_comment .' **/
+/* Comment text area size to maximum */
+.question-comment-view .comment-ctrl .comment-area {
+    max-width: none;
+    width: 100%;
+}
+
+
+";s:7:"created";i:1699977338;}

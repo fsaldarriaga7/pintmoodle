@@ -1,0 +1,15 @@
+a:2:{s:4:"data";s:261:"/** Path: plugin atto_equation .' **/
+.atto_equation_library button {
+    margin: 0.25%;
+    min-width: 12%;
+}
+
+#page-admin-setting-atto_equation_settings .form-defaultinfo {
+    max-height: 10em;
+    overflow: auto;
+    padding: 5px;
+    min-width: 206px;
+}
+
+
+";s:7:"created";i:1699977356;}
